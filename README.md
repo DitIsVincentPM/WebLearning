@@ -2,6 +2,8 @@
 
 WebLearning is a web development learning platform designed to help aspiring developers master HTML, CSS, JavaScript, PHP, and more through hands-on exercises and interactive lessons.
 
+!NOTICE This is still in development, installation of the platform won't help at the current state.
+
 ## Features
 
 - **Interactive Lessons**: Engage with practical, hands-on coding challenges and real-world examples to solidify your skills.
